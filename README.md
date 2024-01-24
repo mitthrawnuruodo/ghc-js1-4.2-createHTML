@@ -118,6 +118,8 @@ d) Make a CSS file and style the list and list items, so it looks something like
 
 ![](media/list-template-example.png)
 
+> Tip: You may want to change to using template strings for this.
+
 Level 2: Use the "new look" on the rest of the exercises:
 
 Make 4 buttons with the ids: `button#sortByArtist`, `button#sortByYearAsc`, `button#sortByYearDesc` and `button#originalOrder`.
