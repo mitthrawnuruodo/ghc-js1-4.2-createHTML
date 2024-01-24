@@ -102,10 +102,10 @@ const bestAlbumsOfAllTime = `
         { "title":"The Stone Roses", "artist":"The Stone Roses", "year": 1989, "cover":"https://www.geek.no/noroff/albums/Stoneroses.jpg" }
     ]
 }
-`
+`;
 ```
 
-a) Create an ul-element using `createElement()`.
+a) Create an ol-element using `createElement()`.
 
 b) List albums in the order given into the ul-element element in given order, on the form: 
 1. Dookie, Green Day, 1994
